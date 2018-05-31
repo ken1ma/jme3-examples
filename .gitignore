@@ -1,2 +1,7 @@
-*.class
 *.log
+
+# jme3
+/*.dylib
+
+# sbt
+target/
